@@ -7,7 +7,11 @@ title: Saturn - HN Reader App
 
 ![Saturn - HN Reader App icon](/assets/saturn-ios.png)
 
-A [Hacker News](https://news.ycombinator.com/) reader for iOS, built using Swift 5, SwiftUI, Combine, async/await, Firebase. Requires iOS 16 to use.
+A [Hacker News](https://news.ycombinator.com/) reader for iOS, built using Swift 5, SwiftUI, Combine, async/await, Firebase. Requires iOS 16 to use. Free to download.
+
+[![Download Saturn on the App Store](/assets/badge.png)](https://apps.apple.com/app/id1671969287)
+
+<hr />
 
 ### Features:
 
